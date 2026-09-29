@@ -862,7 +862,7 @@ export const topics = [
           Selûne quem falou primeiro, baixinho.
         </p>
 
-        <p>— Eu não vou pedir que você fique. Só peço que não vá embora.</p>
+        <p>— Eu não vou pedir que você fique. Só peço que não deixa de cantar para min.</p>
 
         <p>
           Sidara guardou a gaita. Deitou a cabeça no colo dela e ficou quieta por um bom tempo,
