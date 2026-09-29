@@ -252,7 +252,7 @@ export const topics = [
       <p>Quem não quis ficar desembarcou no porto seguinte.</p>
 
         <p>
-          Eles já não iam mais escravizar. O Sorriso da Rainha passou a se chamar Lágrima de Prata, a única deusa para quem ela já tinha cantado.
+          Eles já não iam mais escravizar. O Sorriso da Rainha passou a se chamar Lágrima de Prata, uma homenagem a única deusa para quem ela já tinha cantado.
         </p>
 
         <h2>A capitã da Cidade Baixa</h2>
