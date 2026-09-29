@@ -893,7 +893,7 @@ export const topics = [
           Naquela noite foram para Argentil, onde nenhum som chega às paredes, e o resto ficou
           entre elas, as mãos que aprenderam o caminho uma da outra sem pressa, o riso baixo no
           escuro, o nome de uma sussurrado pela outra até virar oração. Sidara, que a vida inteira
-          dormiu com medo do escuro, dormiu nos braços dela.
+          dormiu com medo do escuro, dormiu nos braços da luz.
         </p>
 
         <p>
