@@ -25,7 +25,11 @@ export function AudioPlayer({ src, title, note }) {
 
   const onLoadedMetadata = () => setDuration(audioRef.current.duration)
 
-  const onEnded = () => setPlaying(false)
+  const onEnded = () => {
+    const audio = audioRef.current
+    audio.currentTime = 0
+    audio.play()
+  }
 
   const seek = (e) => {
     const rect = e.currentTarget.getBoundingClientRect()
